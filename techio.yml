@@ -1,7 +1,9 @@
-title: Go Project
+title: My First Go Project
 plan:
-- title: Welcome
+- title: Welcome to my background
   statement: markdowns/welcome.md
+- title: Part 2
+  statement: markdowns/part2.md
 projects:
   go:
     root: /project
